@@ -1,2 +1,2 @@
-# dogecoin-stonks.github.io
-Dogecoin Stonks Website
+# dogecoinheadquarters.github.io
+Dogecoin Headquarters Website
